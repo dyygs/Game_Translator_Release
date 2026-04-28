@@ -1,0 +1,13 @@
+{
+  "version": "3.0.0",
+  "download_urls": {
+    "github": "https://github.com/dyygs/Game_Translator_Release/releases/download/3.0.0/Dota2Translator_v3.0.0.exe",
+    "gitee": "https://gitee.com/dyygs/game_-translator_-release/releases/download/3.0.0/Dota2Translator_v3.0.0.exe"
+  },
+  "sha256": "07C37F68BE0CCEDC1370D845B5DFA1391CDF98468081D9949E02340EC6F80E89",
+  "size": 11651996,
+  "release_notes": "1. 代码质量全面优化\n2. 修复多项功能缺陷\n3. 翻译系统增强",
+  "min_version": "2.0.0",
+  "force_update": false,
+  "update_type": "full"
+}
