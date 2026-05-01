@@ -4,8 +4,8 @@
     "github": "https://github.com/dyygs/Game_Translator_Release/releases/download/3.0.1/Dota2Translator_v3.0.1.exe",
     "gitee": "https://gitee.com/dyygs/game_-translator_-release/releases/download/3.0.1/Dota2Translator_v3.0.1.exe"
   },
-  "sha256": "fa7b3e839beeef16aef641d9b3b0d5423e715891610876de56f15b5e7d2ffd99",
-  "size": 16226551,
+  "sha256": "f8edc0c5171be410a3412bccc246f37bd99f75fce433c3287f8b67febe66b402",
+  "size": 16228649,
   "release_notes": "1. 修复模型下载问题\n2. 修复日志文件问题\n3. 修复界面高度自适应",
   "min_version": "3.0.0",
   "force_update": true,
