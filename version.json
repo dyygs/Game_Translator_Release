@@ -7,7 +7,7 @@
   "sha256": "d6593c72fc651545fbac92968dda540c8f8933d355c589a228bc7df7b8d8edb5",
   "size": 18915471,
   "release_notes": "1. 兼容中文用户名\n2. 又磕了翻译质量\n3. 修复各种BUG",
-  "min_version": "3.0.0",
+  "min_version": "3.0.2",
   "force_update": false,
   "update_type": "full"
 }
