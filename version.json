@@ -4,8 +4,8 @@
     "github": "https://github.com/dyygs/Game_Translator_Release/releases/download/3.0.2/Dota2Translator_v3.0.2_Release.exe",
     "gitee": "https://gitee.com/dyygs/game_-translator_-release/releases/download/3.0.2/Dota2Translator_v3.0.2_Release.exe"
   },
-  "sha256": "ae02d3f432cbda3f659d040d183ae42ccc8bfbc2a242b542f47acf7c8d4269f1",
-  "size": 18917625,
+  "sha256": "d1950e98a4f80210cc3ca9dc7b06bda510e5a123b723e3abf7d1b03df84a50d5",
+  "size": 18918336,
   "release_notes": "1. 兼容中文用户名\n2. 又磕了翻译质量\n3. 修复各种BUG",
   "min_version": "3.0.0",
   "force_update": false,
