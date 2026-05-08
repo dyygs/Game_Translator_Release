@@ -1,13 +1,13 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.2",
   "download_urls": {
-    "github": "https://github.com/dyygs/Game_Translator_Release/releases/download/3.0.0/Dota2Translator_v3.0.0.exe",
-    "gitee": "https://gitee.com/dyygs/game_-translator_-release/releases/download/3.0.0/Dota2Translator_v3.0.0.exe"
+    "github": "https://github.com/dyygs/Game_Translator_Release/releases/download/3.0.2/Dota2Translator_v3.0.2_Release.exe",
+    "gitee": "https://gitee.com/dyygs/game_-translator_-release/releases/download/3.0.2/Dota2Translator_v3.0.2_Release.exe"
   },
-  "sha256": "900883186b30a4f8bc2661a8274c24fbfc03f289ddb60b0543ea3b79daec1d6e",
-  "size": 17867593,
-  "release_notes": "1. 项目重构\n2. UI重构\n3. 各种bug修复",
-  "min_version": "2.0.0",
+  "sha256": "d6593c72fc651545fbac92968dda540c8f8933d355c589a228bc7df7b8d8edb5",
+  "size": 18915471,
+  "release_notes": "1. 兼容中文用户名\n2. 又磕了翻译质量\n3. 修复各种BUG",
+  "min_version": "3.0.0",
   "force_update": false,
   "update_type": "full"
 }
