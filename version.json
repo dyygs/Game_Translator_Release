@@ -1,13 +1,13 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.3",
   "download_urls": {
-    "github": "https://github.com/dyygs/Game_Translator_Release/releases/download/3.0.1/Dota2Translator_v3.0.1.exe",
-    "gitee": "https://gitee.com/dyygs/game_-translator_-release/releases/download/3.0.1/Dota2Translator_v3.0.1.exe"
+    "github": "https://github.com/dyygs/Game_Translator_Release/releases/download/3.0.3/Dota2Translator_v3.0.2_Release.exe",
+    "gitee": "https://gitee.com/dyygs/game_-translator_-release/releases/download/3.0.3/Dota2Translator_v3.0.2_Release.exe"
   },
-  "sha256": "f8edc0c5171be410a3412bccc246f37bd99f75fce433c3287f8b67febe66b402",
-  "size": 16228649,
-  "release_notes": "1. 修复模型下载问题\n2. 修复日志文件问题\n3. 修复界面高度自适应",
-  "min_version": "3.0.0",
-  "force_update": true,
+  "sha256": "15436a134afa34fb8d7f54b55b0650aaa7358ad7087d7d0033aae8322c4f0d67",
+  "size": 17913764,
+  "release_notes": "修复中文用户名检测问题",
+  "min_version": "2.0.0",
+  "force_update": false,
   "update_type": "full"
 }
